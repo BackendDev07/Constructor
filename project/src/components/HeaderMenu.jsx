@@ -46,7 +46,7 @@ const MenuTop = styled.div`
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
-    width: 20%;
+    width: 22%;
     
     height: 100%;
     padding: 0 30px;
