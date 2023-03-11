@@ -29,11 +29,14 @@ export const routes = [
     {
         id: 5,
         path: '/user',
-        components: <User/>
+        components: <User/> 
     },
     {
-        id: 6,
+        id: 6,  
         path: '/about',
         components: <About/>
     },
+    {
+        id: 7
+    }
 ]
